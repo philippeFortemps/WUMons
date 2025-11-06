@@ -10,7 +10,7 @@ Please note the following quote by Guido van Rossum, the creator of Python
     — Guido van Rossum
 
 Author: John Doe
-Created: 12-September-2024
+Created: 12-September-2024 
 
 """
 
